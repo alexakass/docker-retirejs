@@ -7,8 +7,8 @@ LABEL version="1.0" maintainer="Alex Akass <alex@akass.com>"
 LABEL com.seccurelabs.retirejs.version="0.0.1-beta"
 LABEL vendor1="Ssecurelabs"
 LABEL vendor2="Ttestlabs"
-LABEL com.seccurelabs.alpinejs.release-date="2021-04-03"
-LABEL com.seccurelabs.alpinejs.version.is-production="False"
+LABEL com.seccurelabs.retirejs.release-date="2021-04-03"
+LABEL com.seccurelabs.retirejs.version.is-production="False"
 
 # Elovate our user
 USER root
